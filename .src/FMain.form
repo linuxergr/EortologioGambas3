@@ -1,0 +1,16 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,100,103)
+  Icon = Picture["icon.png"]
+  { DateChooser1 DateChooser
+    MoveScaled(1,1,98,36)
+  }
+  { lstGiortes ListBox
+    MoveScaled(1,38,98,57)
+  }
+  { btnPasxa Button
+    MoveScaled(1,96,98,6)
+    Text = ("Πότε πέφτει το Πάσχα")
+  }
+}

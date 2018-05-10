@@ -1,0 +1,12 @@
+# Gambas Project File 3.0
+# Compiled with Gambas 3.10.0
+Title=Eortologio
+Startup=FMain
+Version=0.0.7
+Component=gb.image
+Component=gb.gtk3
+Component=gb.form
+TabSize=2
+Language=en_US
+SourcePath=/home/pascal/Downloads
+Packager=1
