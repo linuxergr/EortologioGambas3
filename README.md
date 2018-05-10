@@ -2,7 +2,7 @@
 
 ![Screenshot](https://i.imgur.com/izHkgtGl.png)
 
-Συντηρημένος (9 χρόνια πέρασαν ήδη) forked κώδικας από εμάς. του παλιού GTK2 project του φίλου Άγγελου Παναγιωτάκη για GTK3 libs.
+Συντηρημένος (9 χρόνια πέρασαν ήδη) forked κώδικας από εμάς, του παλιού GTK2 project του φίλου Άγγελου Παναγιωτάκη για GTK3 libs.
 
 http://agelospanagiotakis.blogspot.gr/2009/07/gambas-basic-linux.html
 
