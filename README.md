@@ -1,3 +1,6 @@
+
+    Το projet μετακόμισε πλέον μόνιμα στο https://gitlab.com/psposito/EortologioGambas3
+
 Για Linux / Unix GTK3 με Gambas3 Basic με GPL άδεια, διότι μπορούμε και επειδή θέλουμε.....
 
 ![Screenshot](https://i.imgur.com/izHkgtGl.png)
